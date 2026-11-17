@@ -1,0 +1,6 @@
+product_id,product_name,product_type
+P01,Term Plan,Term
+P02,Endowment Plan,Endowment
+P03,ULIP Plan,ULIP
+P04,Pension Plan,Pension
+P05,Child Plan,Child
